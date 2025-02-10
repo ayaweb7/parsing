@@ -42,15 +42,15 @@ BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dis
 <script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/'});</script>
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s1/svoy-bany/kernel_main/kernel_main_v1.js?1733210285160623"></script>
-<script type="text/javascript"  src="/bitrix/cache/js/s1/svoy-bany/kernel_main_polyfill_customevent/kernel_main_polyfill_customevent_v1.js?17332102851051"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/svoy-bany/kernel_main/kernel_main_v1.js?1737368369160623"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/svoy-bany/kernel_main_polyfill_customevent/kernel_main_polyfill_customevent_v1.js?17373682591051"></script>
 <script type="text/javascript" src="/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.min.js?159401488760291"></script>
 <script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?15742398937365"></script>
 <script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?160187985410532"></script>
 <script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.js','/bitrix/templates/svoy-bany/components/bitrix/menu/top_menu/script.js']);</script>
 
 
-<script type="text/javascript"  src="/bitrix/cache/js/s1/svoy-bany/template_ae3ecbe5687763c67a251aa94b03750f/template_ae3ecbe5687763c67a251aa94b03750f_v1.js?1733210285950"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/svoy-bany/template_ae3ecbe5687763c67a251aa94b03750f/template_ae3ecbe5687763c67a251aa94b03750f_v1.js?1737368259950"></script>
 <script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "1f193c30dee54e19bdf33e71fe787ab8"]); _ba.push(["host", "svoy-bany.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
 
 
@@ -771,7 +771,7 @@ else
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 text-left ">
-					<span>Строительная компания "Своя баня" © 2024</span>
+					<span>Строительная компания "Своя баня" © 2025</span>
 														</div>
 				<div class="col-lg-3 text-right "> <a href="/privacy/">Политика конфиденциальности</a></div>
 				<div class="col-lg-5 text-right "> <a href="/auth/"> Авторизация</a> <a href="/rules/"> Правила использования</a> <a href="/map/"> Карта сайта</a> </div>
@@ -1147,4 +1147,4 @@ else
 </script>
 </body>
 
-</html><!--4917ad28bc41814c494e71c62b322ed8-->
+</html><!--9a34e0b61e800c00c3ef182d9bd4185f-->
