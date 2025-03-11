@@ -1,0 +1,272 @@
+[
+    {
+        "Number": 1,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "База компаний",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5401005/baza-kompaniy.html",
+        "DateTime": "2025-02-21 18:17:46"
+    },
+    {
+        "Number": 2,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсер фото со цсетей",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5400624/parser-foto-so-tssetey.html",
+        "DateTime": "2025-02-21 18:17:47"
+    },
+    {
+        "Number": 3,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсер, нужно сделать генератор цифровых отпечатков  TLS,SSL",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5400581/parser-nujno-sdelat-generator-tsifrovyih-otpechatkov---tlsssl.html",
+        "DateTime": "2025-02-21 18:17:48"
+    },
+    {
+        "Number": 4,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Спарсить сайт",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5400787/sparsit-sayt.html",
+        "DateTime": "2025-02-21 18:17:49"
+    },
+    {
+        "Number": 5,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг текстового инфо с изображений",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5400592/parsing-tekstovogo-info-s-izobrajeniy.html",
+        "DateTime": "2025-02-21 18:17:50"
+    },
+    {
+        "Number": 6,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг данных с сайта EMobiletracker (PHP)",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5400118/parsing-dannyih-s-sayta-emobiletracker-php.html",
+        "DateTime": "2025-02-21 18:17:51"
+    },
+    {
+        "Number": 7,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Разработка парсера ВК для фильтрации целевой аудитории через рекламный кабинет ВКонтакте",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5400503/razrabotka-parsera-vk-dlya-filtratsii-tselevoy-auditorii-cherez-reklamnyiy-kabinet-vkontakte.html",
+        "DateTime": "2025-02-21 18:17:52"
+    },
+    {
+        "Number": 8,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Разработать MVP для сервиса аналитики",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5400357/razrabotat-mvp-dlya-servisa-analitiki.html",
+        "DateTime": "2025-02-21 18:17:54"
+    },
+    {
+        "Number": 9,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Доработать Парсер.",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5400018/dorabotat-parser.html",
+        "DateTime": "2025-02-21 18:17:57"
+    },
+    {
+        "Number": 10,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Python автоматизация YouTube Data API",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5399436/python-avtomatizatsiya-youtube-data-api.html",
+        "DateTime": "2025-02-21 18:17:58"
+    },
+    {
+        "Number": 11,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "парсинг данных по выручке и кол-ву сотрудников по инн",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5399755/parsing-dannyih-po-vyiruchke-i-kol-vu-sotrudnikov-po-inn-.html",
+        "DateTime": "2025-02-21 18:18:00"
+    },
+    {
+        "Number": 12,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Нужен парсер цен на маркетплейсах",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5399605/nujen-parser-tsen-na-marketpleysah.html",
+        "DateTime": "2025-02-21 18:18:01"
+    },
+    {
+        "Number": 13,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсер вопрос-ответ из выдачи Google",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5399121/parser-vopros-otvet-iz-vyidachi-google.html",
+        "DateTime": "2025-02-21 18:18:03"
+    },
+    {
+        "Number": 14,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Спросить данные с открытого источника",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5399527/sprosit-dannyie-s-otkryitogo-istochnika.html",
+        "DateTime": "2025-02-21 18:18:05"
+    },
+    {
+        "Number": 15,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг номеров с сайтов",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398778/parsing-nomerov-s-saytov.html",
+        "DateTime": "2025-02-21 18:18:07"
+    },
+    {
+        "Number": 16,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Написать парсер авто с сайта.",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5399343/napisat-parser-avto-s-sayta.html",
+        "DateTime": "2025-02-21 18:18:09"
+    },
+    {
+        "Number": 17,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг сайта",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5399288/parsing-sayta.html",
+        "DateTime": "2025-02-21 18:18:10"
+    },
+    {
+        "Number": 18,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг цен онлайн-аптек (сбор минимальных цен)",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398962/parsing-tsen-onlayn-aptek-sbor-minimalnyih-tsen.html",
+        "DateTime": "2025-02-21 18:18:11"
+    },
+    {
+        "Number": 19,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг сервера и отправление запроса на него",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398830/parsing-servera-i-otpravlenie-zaprosa-na-nego.html",
+        "DateTime": "2025-02-21 18:18:12"
+    },
+    {
+        "Number": 20,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Нужно сделать сервис для анализа позиций на Яндекс.Картах (парсер)",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5399058/nujno-sdelat-servis-dlya-analiza-pozitsiy-na-yandekskartah-parser.html",
+        "DateTime": "2025-02-21 18:18:13"
+    },
+    {
+        "Number": 21,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг garantex",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398988/parsing-garantex.html",
+        "DateTime": "2025-02-21 18:18:15"
+    },
+    {
+        "Number": 22,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Нужно спарсить каталог с сайта",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398983/nujno-sparsit-katalog-s-sayta.html",
+        "DateTime": "2025-02-21 18:18:16"
+    },
+    {
+        "Number": 23,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Спарсить объявления посуточной аренды квартир.",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398853/sparsit-obyyavleniya-posutochnoy-arendyi-kvartir.html",
+        "DateTime": "2025-02-21 18:18:18"
+    },
+    {
+        "Number": 24,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг данных (на PHP) с сайта \"Реестр уведомлений о залоге движимого имущества\" (из PDF-файла)",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398470/parsing-dannyih-na-php-s-sayta-reestr-uvedomleniy-o-zaloge-dvijimogo-imuschestva-iz-pdf-fayla.html",
+        "DateTime": "2025-02-21 18:18:20"
+    },
+    {
+        "Number": 25,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Доработать (исправить) программу на python (API Вконтакте)",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398717/dorabotat-ispravit-programmu-na-python-api-vkontakte.html",
+        "DateTime": "2025-02-21 18:18:21"
+    },
+    {
+        "Number": 26,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Парсинг сайта",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398539/parsing-sayta.html",
+        "DateTime": "2025-02-21 18:18:23"
+    },
+    {
+        "Number": 27,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Постер отзывов на мой сайт",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398426/poster-otzyivov-na-moy-sayt.html",
+        "DateTime": "2025-02-21 18:18:25"
+    },
+    {
+        "Number": 28,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Автоматический парсинг фото с WB и отправка уведомлений о изменениях через Telegram-бота",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398336/avtomaticheskiy-parsing-foto-s-wb-i-otpravka-uvedomleniy-o-izmeneniyah-cherez-telegram-bota.html",
+        "DateTime": "2025-02-21 18:18:26"
+    },
+    {
+        "Number": 29,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Требуется парсинг товара",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398162/trebuetsya-parsing-tovara.html",
+        "DateTime": "2025-02-21 18:18:28"
+    },
+    {
+        "Number": 30,
+        "Author": "NoPrice",
+        "Date": "NoDate",
+        "Topic": "Написать чекер артикулов для доски объявлений",
+        "Shorts": "NoShorts",
+        "Link": "https://www.fl.ru/projects/5398105/napisat-cheker-artikulov-dlya-doski-obyyavleniy.html",
+        "DateTime": "2025-02-21 18:18:30"
+    }
+]
