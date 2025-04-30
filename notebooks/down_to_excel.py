@@ -1,5 +1,5 @@
 # Notebook parsing_pythonHubStudio.ipynb
-
+"""
 import xlswriter
 from file import array
 
@@ -28,3 +28,5 @@ def writer (parameter):
 
 # Запуск функции
 writer(array)
+"""
+print("Hello Nick!")
